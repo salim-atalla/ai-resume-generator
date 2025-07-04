@@ -1,0 +1,1156 @@
+Summary:
+Fullstack developer with a strong background in building REST APIs and modern frontend interfaces for data-intensive applications.
+
+Skills:
+Python, FastAPI, React, Docker, PostgreSQL
+
+Experience:
+- Built RESTful APIs using FastAPI for e-commerce platforms.
+- Developed frontend components using React and integrated with backend services.
+- Deployed applications using Docker for consistent environments.
+
+---
+
+Summary:
+Backend engineer passionate about clean code and scalable architectures, experienced in cloud deployments and microservices.
+
+Skills:
+Python, Django, AWS, Kubernetes, SQL
+
+Experience:
+- Designed and implemented microservices with Django and Flask.
+- Deployed scalable services on AWS using Kubernetes.
+- Wrote SQL queries for large datasets with performance optimization.
+
+---
+
+Summary:
+Data engineer with expertise in building ETL pipelines and automating data workflows for machine learning applications.
+
+Skills:
+Python, Airflow, SQL, Pandas, Spark
+
+Experience:
+- Built ETL pipelines using Airflow to automate data collection.
+- Processed large datasets using Spark for analytics.
+- Created data validation scripts using Pandas and SQL.
+
+---
+
+Summary:
+Junior frontend developer with experience in building responsive interfaces and managing state effectively in web applications.
+
+Skills:
+JavaScript, React, HTML, CSS, Git
+
+Experience:
+- Built reusable React components for dashboards.
+- Managed application state using Redux.
+- Optimized web interfaces for mobile responsiveness.
+
+---
+
+Summary:
+Software engineer focused on backend systems with a keen interest in building efficient APIs and integrating with frontend teams.
+
+Skills:
+Python, Flask, SQLAlchemy, GitHub Actions, REST APIs
+
+Experience:
+- Created REST APIs using Flask for internal tools.
+- Managed database models using SQLAlchemy.
+- Integrated CI/CD workflows with GitHub Actions.
+
+---
+
+Summary:
+Machine learning engineer with experience in model training and deployment for predictive analytics in healthcare.
+
+Skills:
+Python, TensorFlow, Scikit-learn, Pandas, AWS Sagemaker
+
+Experience:
+- Trained classification models for healthcare datasets.
+- Deployed machine learning models using AWS Sagemaker.
+- Processed and cleaned large datasets for training.
+
+---
+
+Summary:
+DevOps engineer passionate about automation and improving deployment workflows for development teams.
+
+Skills:
+Docker, Kubernetes, Jenkins, Python, Bash
+
+Experience:
+- Automated container builds using Docker.
+- Managed Kubernetes clusters for microservices.
+- Configured CI/CD pipelines using Jenkins for automated testing.
+
+---
+
+Summary:
+Cloud engineer with experience in infrastructure management and deploying scalable systems in cloud environments.
+
+Skills:
+AWS, Terraform, Docker, Python, Linux
+
+Experience:
+- Wrote Terraform scripts to provision AWS infrastructure.
+- Containerized applications using Docker.
+- Automated backups and monitoring for cloud resources.
+
+---
+
+Summary:
+Data analyst with a focus on transforming raw data into actionable insights and reporting for business decisions.
+
+Skills:
+SQL, Python, Power BI, Excel, Pandas
+
+Experience:
+- Created dashboards in Power BI for sales tracking.
+- Analyzed datasets using Pandas and generated reports.
+- Automated data extraction and transformation using Python.
+
+---
+
+Summary:
+Cybersecurity analyst experienced in monitoring network activity and conducting vulnerability assessments.
+
+Skills:
+Python, Wireshark, Kali Linux, Nmap, Splunk
+
+Experience:
+- Monitored network activity to identify security threats.
+- Performed vulnerability scans using Nmap and Nessus.
+- Automated log analysis with Splunk and Python scripts.
+
+---
+
+Summary:
+Experienced Fullstack Developer with a focus on building scalable APIs and clean frontend interfaces.
+
+Skills:
+Python, FastAPI, React, Docker, PostgreSQL
+
+Experience:
+- Developed REST APIs with FastAPI.
+- Built responsive UIs with React.
+- Managed deployments using Docker and CI/CD.
+
+---
+
+Summary:
+Backend Engineer with a strong background in designing microservices and managing cloud infrastructures.
+
+Skills:
+Python, Django, AWS, Kubernetes, SQL
+
+Experience:
+- Created microservices using Django and Flask.
+- Managed AWS infrastructure with Kubernetes.
+- Optimized SQL queries for performance.
+
+---
+
+Summary:
+Junior Frontend Developer skilled in crafting responsive and dynamic user interfaces.
+
+Skills:
+JavaScript, React, HTML, CSS, Git
+
+Experience:
+- Developed React components for dashboards.
+- Ensured cross-browser compatibility.
+- Used Git for version control.
+
+---
+
+Summary:
+Data Engineer with expertise in ETL pipelines and large-scale data processing.
+
+Skills:
+Python, Airflow, Spark, SQL, Pandas
+
+Experience:
+- Automated data pipelines with Airflow.
+- Processed big data with Spark.
+- Cleaned and transformed data using Pandas.
+
+---
+
+Summary:
+DevOps Engineer with a passion for automation and continuous integration pipelines.
+
+Skills:
+Docker, Kubernetes, Jenkins, Python, Bash
+
+Experience:
+- Automated builds with Jenkins.
+- Containerized apps using Docker.
+- Managed Kubernetes clusters for deployment.
+
+---
+
+Summary:
+Cloud Engineer experienced in deploying and maintaining scalable systems.
+
+Skills:
+AWS, Terraform, Docker, Linux, Python
+
+Experience:
+- Provisioned infrastructure using Terraform.
+- Deployed apps in Docker containers.
+- Automated monitoring and backups.
+
+---
+
+Summary:
+Machine Learning Engineer with a focus on model training and deployment for predictive analytics.
+
+Skills:
+Python, TensorFlow, Scikit-learn, Pandas, AWS
+
+Experience:
+- Trained machine learning models for analytics.
+- Deployed models using AWS Sagemaker.
+- Processed datasets for training.
+
+---
+
+Summary:
+Cybersecurity Analyst skilled in network monitoring and vulnerability assessments.
+
+Skills:
+Python, Wireshark, Nmap, Kali Linux, Splunk
+
+Experience:
+- Monitored network traffic for threats.
+- Performed vulnerability scans.
+- Automated log analysis with Python.
+
+---
+
+Summary:
+Software Engineer focused on backend development and API design.
+
+Skills:
+Python, Flask, SQLAlchemy, REST APIs, Git
+
+Experience:
+- Built REST APIs with Flask.
+- Managed database schemas with SQLAlchemy.
+- Used Git for collaborative development.
+
+---
+
+Summary:
+Frontend Developer experienced in building user-friendly and responsive web applications.
+
+Skills:
+JavaScript, Vue.js, CSS, HTML, Git
+
+Experience:
+- Developed components with Vue.js.
+- Styled interfaces with CSS frameworks.
+- Maintained version control with Git.
+
+---
+
+Summary:
+AI Researcher with interests in natural language processing and deep learning models.
+
+Skills:
+Python, PyTorch, NLP, TensorFlow, Transformers
+
+Experience:
+- Built NLP models with PyTorch.
+- Used Transformers for language tasks.
+- Conducted experiments for research papers.
+
+---
+
+Summary:
+Fullstack Developer with a love for building seamless integrations between backend and frontend systems.
+
+Skills:
+Python, FastAPI, React, PostgreSQL, Docker
+
+Experience:
+- Created APIs with FastAPI.
+- Developed React dashboards.
+- Deployed using Docker containers.
+
+---
+
+Summary:
+Junior Data Analyst with skills in data visualization and reporting.
+
+Skills:
+Python, SQL, Pandas, Excel, Tableau
+
+Experience:
+- Created data dashboards in Tableau.
+- Processed data using Pandas.
+- Wrote SQL queries for reports.
+
+---
+
+Summary:
+DevOps Enthusiast learning about CI/CD and infrastructure as code.
+
+Skills:
+Docker, GitHub Actions, Python, Bash
+
+Experience:
+- Automated deployments with GitHub Actions.
+- Built Docker images for applications.
+- Wrote scripts to automate workflows.
+
+---
+
+Summary:
+Backend Developer passionate about API development and database management.
+
+Skills:
+Python, Flask, SQL, REST APIs, Git
+
+Experience:
+- Developed REST APIs for projects.
+- Wrote SQL queries for data retrieval.
+- Managed Git repositories.
+
+---
+
+Summary:
+Data Scientist with experience in statistical modeling and machine learning.
+
+Skills:
+Python, Scikit-learn, Pandas, Matplotlib, SQL
+
+Experience:
+- Built models for predictive analytics.
+- Analyzed datasets using Pandas.
+- Visualized data with Matplotlib.
+
+---
+
+Summary:
+Cloud Infrastructure Engineer focused on reliable and scalable deployments.
+
+Skills:
+AWS, Terraform, Docker, Linux, Python
+
+Experience:
+- Wrote Terraform scripts for AWS.
+- Deployed containers with Docker.
+- Automated server configurations.
+
+---
+
+Summary:
+Machine Learning Intern exploring supervised and unsupervised learning techniques.
+
+Skills:
+Python, Scikit-learn, Pandas, NumPy
+
+Experience:
+- Built classification models.
+- Processed data for model training.
+- Evaluated model performance.
+
+---
+
+Summary:
+Software Developer with an interest in backend architecture and system design.
+
+Skills:
+Python, Django, PostgreSQL, REST APIs
+
+Experience:
+- Built Django REST APIs.
+- Designed PostgreSQL schemas.
+- Implemented authentication systems.
+
+---
+
+Summary:
+Junior Cloud Developer with hands-on experience in deploying apps to AWS.
+
+Skills:
+AWS, Docker, Python, Linux
+
+Experience:
+- Deployed apps on EC2 instances.
+- Managed Docker containers.
+- Automated simple tasks with Python scripts.
+
+---
+
+Summary:
+AI Engineer passionate about building machine learning pipelines and deploying scalable models.
+
+Skills:
+Python, TensorFlow, PyTorch, AWS, Kubernetes
+
+Experience:
+- Developed deep learning models for NLP tasks.
+- Deployed models on AWS using Kubernetes.
+- Automated data preprocessing pipelines.
+
+---
+
+Summary:
+Fullstack Developer with experience creating dynamic web applications and RESTful APIs.
+
+Skills:
+Python, Django, React, JavaScript, PostgreSQL
+
+Experience:
+- Built Django REST APIs for e-commerce platforms.
+- Designed React interfaces with reusable components.
+- Managed PostgreSQL databases for high-traffic apps.
+
+---
+
+Summary:
+Data Engineer skilled in data pipeline architecture and big data processing.
+
+Skills:
+Spark, Airflow, Python, SQL, AWS
+
+Experience:
+- Created ETL pipelines using Airflow.
+- Processed large datasets with Spark for analytics.
+- Managed AWS infrastructure for data workflows.
+
+---
+
+Summary:
+Frontend Engineer with a focus on creating accessible and responsive user interfaces.
+
+Skills:
+JavaScript, React, TypeScript, CSS, HTML
+
+Experience:
+- Built responsive React interfaces.
+- Ensured accessibility compliance.
+- Managed state using Redux.
+
+---
+
+Summary:
+Backend Developer experienced in API design and database optimization.
+
+Skills:
+Python, FastAPI, SQLAlchemy, PostgreSQL, Docker
+
+Experience:
+- Created scalable APIs using FastAPI.
+- Designed database schemas for performance.
+- Deployed apps using Docker containers.
+
+---
+
+Summary:
+Machine Learning Engineer with expertise in computer vision and data analysis.
+
+Skills:
+Python, OpenCV, TensorFlow, Pandas, Scikit-learn
+
+Experience:
+- Built image classification models.
+- Processed data with Pandas for analysis.
+- Deployed models using TensorFlow Serving.
+
+---
+
+Summary:
+DevOps Engineer focused on automation and CI/CD for scalable deployments.
+
+Skills:
+Docker, Kubernetes, Jenkins, Terraform, Bash
+
+Experience:
+- Automated build pipelines using Jenkins.
+- Managed Kubernetes clusters for deployments.
+- Wrote Terraform scripts for infrastructure management.
+
+---
+
+Summary:
+Cloud Engineer with hands-on experience in AWS services and server management.
+
+Skills:
+AWS, EC2, S3, Lambda, Python
+
+Experience:
+- Deployed serverless functions with Lambda.
+- Managed storage using S3.
+- Automated server provisioning with Python scripts.
+
+---
+
+Summary:
+Junior Data Analyst skilled in turning data into insights through visualization and reporting.
+
+Skills:
+SQL, Python, Tableau, Excel, Pandas
+
+Experience:
+- Built dashboards using Tableau.
+- Wrote SQL queries for business reporting.
+- Processed data using Pandas.
+
+---
+
+Summary:
+Cybersecurity Specialist experienced in threat detection and security analysis.
+
+Skills:
+Python, Wireshark, Kali Linux, Nmap, Splunk
+
+Experience:
+- Monitored networks for suspicious activity.
+- Conducted vulnerability assessments.
+- Automated security reporting with Python.
+
+---
+
+Summary:
+Frontend Developer with a creative eye for design and user experience.
+
+Skills:
+HTML, CSS, JavaScript, React, Figma
+
+Experience:
+- Designed user-friendly web pages.
+- Built React components for reusable UI patterns.
+- Created wireframes and mockups using Figma.
+
+---
+
+Summary:
+Software Developer with a focus on writing clean, maintainable backend code.
+
+Skills:
+Python, Flask, SQL, REST APIs, Git
+
+Experience:
+- Built RESTful APIs using Flask.
+- Managed relational databases.
+- Wrote unit tests for backend services.
+
+---
+
+Summary:
+Machine Learning Intern with a focus on data cleaning and model experimentation.
+
+Skills:
+Python, Scikit-learn, Pandas, NumPy
+
+Experience:
+- Cleaned and prepared datasets for training.
+- Built simple models using Scikit-learn.
+- Evaluated model accuracy and performance.
+
+---
+
+Summary:
+Cloud Solutions Architect skilled in designing scalable infrastructure.
+
+Skills:
+AWS, Terraform, Docker, Kubernetes, Python
+
+Experience:
+- Designed scalable cloud architectures.
+- Deployed containerized applications with Kubernetes.
+- Automated infrastructure with Terraform.
+
+---
+
+Summary:
+Junior Software Engineer with strong problem-solving skills and an interest in backend systems.
+
+Skills:
+Python, SQL, Git, Linux
+
+Experience:
+- Contributed to backend features.
+- Wrote SQL queries for application data.
+- Used Git for version control.
+
+---
+
+Summary:
+Data Scientist with a passion for turning data into actionable insights.
+
+Skills:
+Python, Pandas, Scikit-learn, SQL, Matplotlib
+
+Experience:
+- Built predictive models using Scikit-learn.
+- Cleaned and analyzed large datasets.
+- Visualized results using Matplotlib.
+
+---
+
+Summary:
+Fullstack Engineer with experience in cloud-based applications and API design.
+
+Skills:
+Python, FastAPI, React, AWS, Docker
+
+Experience:
+- Developed APIs using FastAPI.
+- Created React dashboards for data visualization.
+- Deployed apps on AWS using Docker.
+
+---
+
+Summary:
+DevOps Practitioner interested in CI/CD and infrastructure automation.
+
+Skills:
+Docker, GitHub Actions, Python, Bash, AWS
+
+Experience:
+- Automated testing and deployment with GitHub Actions.
+- Wrote Dockerfiles for applications.
+- Managed AWS infrastructure.
+
+---
+
+Summary:
+Junior Frontend Developer with an interest in responsive web design.
+
+Skills:
+HTML, CSS, JavaScript, Vue.js
+
+Experience:
+- Created responsive layouts with CSS.
+- Built dynamic components with Vue.js.
+- Ensured web accessibility standards.
+
+---
+
+Summary:
+Backend Developer interested in scalable API development and cloud technologies.
+
+Skills:
+Python, Django, REST APIs, PostgreSQL, Docker
+
+Experience:
+- Built REST APIs with Django.
+- Designed and optimized database schemas.
+- Containerized applications using Docker.
+
+---
+
+Summary:
+Data Engineer with experience in building data pipelines and scalable ETL processes.
+
+Skills:
+Python, SQL, Airflow, Spark, AWS
+
+Experience:
+- Developed ETL workflows with Airflow and Python.
+- Managed Spark jobs for large dataset processing.
+- Automated reporting pipelines using AWS Lambda.
+
+---
+
+Summary:
+Fullstack Developer with a passion for clean API design and responsive frontend development.
+
+Skills:
+JavaScript, React, Node.js, Express, MongoDB
+
+Experience:
+- Built REST APIs using Express and Node.js.
+- Developed React frontend components for dashboards.
+- Designed MongoDB schemas for data persistence.
+
+---
+
+Summary:
+Backend Developer focused on building scalable microservices and API integrations.
+
+Skills:
+Python, FastAPI, PostgreSQL, Docker, Kubernetes
+
+Experience:
+- Created APIs using FastAPI with JWT authentication.
+- Deployed microservices in Docker containers on Kubernetes.
+- Managed PostgreSQL database migrations.
+
+---
+
+Summary:
+Junior Frontend Developer with experience in creating responsive user interfaces.
+
+Skills:
+HTML, CSS, JavaScript, React
+
+Experience:
+- Built landing pages and forms using React.
+- Applied CSS Flexbox and Grid for responsive layouts.
+- Integrated APIs to display dynamic content.
+
+---
+
+Summary:
+Cloud Engineer experienced in deploying scalable infrastructure on AWS.
+
+Skills:
+AWS, Terraform, EC2, S3, CloudFormation
+
+Experience:
+- Wrote Terraform scripts to manage AWS infrastructure.
+- Configured EC2 instances for scalable applications.
+- Managed S3 buckets for file storage.
+
+---
+
+Summary:
+Data Analyst with experience in data cleaning, visualization, and reporting.
+
+Skills:
+Python, Pandas, SQL, Tableau, Excel
+
+Experience:
+- Built dashboards using Tableau for sales data.
+- Cleaned and transformed data with Pandas.
+- Wrote SQL queries to extract relevant insights.
+
+---
+
+Summary:
+Machine Learning Engineer passionate about building predictive models for business insights.
+
+Skills:
+Python, Scikit-learn, TensorFlow, Pandas, NumPy
+
+Experience:
+- Trained machine learning models for customer segmentation.
+- Preprocessed datasets using Pandas and NumPy.
+- Deployed models using TensorFlow Serving.
+
+---
+
+Summary:
+DevOps Engineer focused on automating CI/CD pipelines and infrastructure as code.
+
+Skills:
+Docker, Jenkins, GitHub Actions, Terraform, Bash
+
+Experience:
+- Built Docker images for application deployments.
+- Automated testing and deployments using GitHub Actions.
+- Managed cloud infrastructure with Terraform.
+
+---
+
+Summary:
+Cybersecurity Analyst experienced in monitoring network traffic and conducting vulnerability assessments.
+
+Skills:
+Wireshark, Kali Linux, Nmap, Python, Splunk
+
+Experience:
+- Monitored network packets using Wireshark.
+- Performed penetration testing with Kali Linux.
+- Automated log analysis with Python scripts.
+
+---
+
+Summary:
+Fullstack Developer interested in building complete web applications.
+
+Skills:
+Python, Flask, JavaScript, React, SQL
+
+Experience:
+- Built Flask APIs for backend services.
+- Developed React interfaces for frontend applications.
+- Managed relational databases for data storage.
+
+---
+
+Summary:
+Junior Software Developer with an interest in backend and API development.
+
+Skills:
+Python, Django, REST APIs, SQL, Git
+
+Experience:
+- Created Django REST APIs for internal tools.
+- Managed PostgreSQL databases.
+- Used Git for version control.
+
+---
+
+Summary:
+AI Researcher working on NLP projects and transformer models.
+
+Skills:
+Python, PyTorch, Transformers, NLP, TensorFlow
+
+Experience:
+- Fine-tuned transformer models for text classification.
+- Built NLP pipelines using spaCy.
+- Deployed models using TensorFlow.
+
+---
+
+Summary:
+Cloud Solutions Architect designing scalable and secure cloud infrastructures.
+
+Skills:
+AWS, Azure, Terraform, Kubernetes, Docker
+
+Experience:
+- Architected multi-region deployments on AWS.
+- Managed Kubernetes clusters for container orchestration.
+- Automated resource provisioning with Terraform.
+
+---
+
+Summary:
+Frontend Developer with experience building reusable UI components.
+
+Skills:
+React, JavaScript, HTML, CSS, TypeScript
+
+Experience:
+- Developed reusable React components for design systems.
+- Applied TypeScript for type-safe development.
+- Styled applications using CSS modules.
+
+---
+
+Summary:
+Backend Developer interested in microservices and scalable system design.
+
+Skills:
+Node.js, Express, MongoDB, Docker, REST APIs
+
+Experience:
+- Built RESTful APIs using Express and Node.js.
+- Managed MongoDB collections for data storage.
+- Containerized applications using Docker.
+
+---
+
+Summary:
+Data Engineer working on data ingestion and transformation pipelines.
+
+Skills:
+Python, Apache Kafka, Spark, SQL, AWS
+
+Experience:
+- Built Kafka producers and consumers for data ingestion.
+- Processed big data using Spark.
+- Stored processed data in AWS Redshift.
+
+---
+
+Summary:
+Machine Learning Intern learning model deployment and evaluation.
+
+Skills:
+Python, Scikit-learn, Pandas, NumPy
+
+Experience:
+- Trained models for predictive analytics.
+- Evaluated model accuracy using Scikit-learn.
+- Processed datasets for training pipelines.
+
+---
+
+Summary:
+Software Developer with an interest in building API-first applications.
+
+Skills:
+Python, FastAPI, PostgreSQL, Docker, Git
+
+Experience:
+- Created RESTful APIs with FastAPI.
+- Managed database schemas in PostgreSQL.
+- Used Docker for local development.
+
+---
+
+Summary:
+Cloud Engineer passionate about scalable infrastructure.
+
+Skills:
+AWS, Terraform, Docker, Linux
+
+Experience:
+- Deployed applications using Docker on EC2.
+- Automated infrastructure management with Terraform.
+- Managed Linux servers for deployments.
+
+---
+
+Summary:
+Data Analyst focused on turning raw data into actionable insights.
+
+Skills:
+SQL, Python, Pandas, Tableau
+
+Experience:
+- Created dashboards using Tableau.
+- Wrote SQL queries for business reporting.
+- Cleaned data with Python for analysis.
+
+---
+
+Summary:
+Junior DevOps Engineer learning CI/CD and containerization.
+
+Skills:
+Docker, GitHub Actions, Bash, Python
+
+Experience:
+- Built CI/CD pipelines with GitHub Actions.
+- Containerized applications using Docker.
+- Automated tasks using Bash scripts.
+
+---
+
+Summary:
+Fullstack Developer working on web applications.
+
+Skills:
+React, Node.js, Express, MongoDB
+
+Experience:
+- Built REST APIs with Express.
+- Developed React frontends for data dashboards.
+- Managed MongoDB collections.
+
+---
+
+Summary:
+Junior Frontend Developer with experience in building user interfaces.
+
+Skills:
+HTML, CSS, JavaScript, React
+
+Experience:
+- Built responsive layouts using CSS.
+- Created React components for dynamic pages.
+- Integrated APIs into frontend applications.
+
+---
+
+Summary:
+Machine Learning Engineer working on computer vision tasks.
+
+Skills:
+Python, TensorFlow, OpenCV, PyTorch
+
+Experience:
+- Built image classification models.
+- Processed images using OpenCV.
+- Trained models using PyTorch.
+
+---
+
+Summary:
+Cybersecurity Enthusiast learning penetration testing and vulnerability scanning.
+
+Skills:
+Kali Linux, Nmap, Python
+
+Experience:
+- Ran vulnerability scans using Nmap.
+- Used Kali Linux tools for security testing.
+- Wrote scripts for security automation.
+
+---
+
+Summary:
+Software Developer interested in backend architecture.
+
+Skills:
+Python, Django, REST APIs, PostgreSQL
+
+Experience:
+- Built APIs using Django REST framework.
+- Managed PostgreSQL databases.
+- Implemented authentication systems.
+
+---
+
+Summary:
+Cloud Infrastructure Engineer managing scalable deployments.
+
+Skills:
+AWS, Docker, Kubernetes, Terraform
+
+Experience:
+- Deployed apps on AWS using Docker and Kubernetes.
+- Automated infrastructure with Terraform.
+- Managed clusters for high availability.
+
+---
+
+Summary:
+Junior Data Analyst working on cleaning and analyzing datasets.
+
+Skills:
+Python, Pandas, SQL
+
+Experience:
+- Cleaned datasets using Pandas.
+- Wrote SQL queries for data retrieval.
+- Analyzed data for reporting.
+
+---
+
+Summary:
+AI Research Intern learning NLP and model fine-tuning.
+
+Skills:
+Python, Transformers, NLP
+
+Experience:
+- Fine-tuned transformer models.
+- Processed datasets for NLP tasks.
+- Evaluated models for accuracy.
+
+---
+
+Summary:
+Frontend Engineer building user-friendly interfaces.
+
+Skills:
+React, JavaScript, HTML, CSS
+
+Experience:
+- Built interfaces with React.
+- Applied CSS for styling.
+- Created forms and dashboards.
+
+---
+
+Summary:
+Backend Developer interested in scalable system design.
+
+Skills:
+Python, Flask, REST APIs, SQL
+
+Experience:
+- Built REST APIs with Flask.
+- Managed SQL databases.
+- Deployed backend services.
+
+---
+
+Summary:
+Data Engineer building scalable data pipelines.
+
+Skills:
+Python, Spark, Airflow, SQL
+
+Experience:
+- Built pipelines with Airflow.
+- Processed large datasets using Spark.
+- Wrote SQL queries for data transformation.
+
+---
+
+Summary:
+Machine Learning Developer focused on deploying ML models.
+
+Skills:
+Python, TensorFlow, Scikit-learn, AWS
+
+Experience:
+- Trained ML models using Scikit-learn.
+- Deployed models with TensorFlow Serving.
+- Managed model pipelines on AWS.
+
+---
+
+Summary:
+Cloud Developer interested in serverless architectures.
+
+Skills:
+AWS Lambda, API Gateway, Python
+
+Experience:
+- Built serverless functions using AWS Lambda.
+- Exposed APIs with API Gateway.
+- Automated deployments using CloudFormation.
+
+---
+
+Summary:
+Data Analyst working on business intelligence dashboards.
+
+Skills:
+Tableau, SQL, Python
+
+Experience:
+- Created BI dashboards using Tableau.
+- Queried data using SQL.
+- Processed data with Python.
+
+---
+
+Summary:
+Fullstack Engineer interested in modern web development.
+
+Skills:
+React, Node.js, Express, PostgreSQL
+
+Experience:
+- Built REST APIs using Express.
+- Developed React interfaces.
+- Managed PostgreSQL databases.
+
+---
+
+Summary:
+Junior Cloud Engineer managing cloud resources.
+
+Skills:
+AWS, Docker, Linux
+
+Experience:
+- Deployed apps using Docker.
+- Managed EC2 instances on AWS.
+- Configured Linux servers.
+
+---
+
+Summary:
+Machine Learning Intern interested in data preprocessing.
+
+Skills:
+Python, Pandas, Scikit-learn
+
+Experience:
+- Cleaned and processed datasets.
+- Trained models using Scikit-learn.
+- Evaluated model performance.
+
+---
+
+Summary:
+Software Engineer working on API development.
+
+Skills:
+Python, FastAPI, SQL
+
+Experience:
+- Built APIs using FastAPI.
+- Managed SQL databases.
+- Wrote tests for APIs.
+
+---
