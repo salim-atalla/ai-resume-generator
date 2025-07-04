@@ -9,26 +9,30 @@ model = GPT2LMHeadModel.from_pretrained(model_dir)
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model.to(device)
 
-# Improved prompt for structured generation
-prompt = "Summary:\nExperienced Python developer with expertise in FastAPI and SQL, seeking opportunities to build scalable backend systems.\n\nSkills:\n"
+prompt = """Summary:
+Experienced Python developer with expertise in FastAPI and SQL, seeking opportunities to build scalable backend systems.
 
-inputs = tokenizer.encode(prompt, return_tensors="pt").to(device)
-attention_mask = torch.ones_like(inputs)
+Skills:
+- Python
+- FastAPI
+- SQL
+
+Experience:
+- """
+
+inputs = tokenizer(prompt, return_tensors="pt", padding=True).to(device)
 
 outputs = model.generate(
-    inputs,
-    attention_mask=attention_mask,
-    max_length=300,
+    inputs["input_ids"],
+    attention_mask=inputs["attention_mask"],
+    max_length=60,
     num_return_sequences=1,
     no_repeat_ngram_size=2,
     pad_token_id=tokenizer.eos_token_id,
-    do_sample=True,
-    top_k=50,
-    top_p=0.95,
-    temperature=0.7
+    do_sample=False,
 )
 
-generated_text = tokenizer.decode(outputs[0], skip_special_tokens=True)
+generated_text = tokenizer.decode(outputs[0], skip_special_tokens=True).strip()
 
-print("\nGenerated Resume:\n")
+print("\n✅ Generated Resume:\n")
 print(generated_text)
